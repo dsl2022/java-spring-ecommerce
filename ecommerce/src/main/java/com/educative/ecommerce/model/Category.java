@@ -1,6 +1,7 @@
 package com.educative.ecommerce.model;
-
 import jakarta.persistence.*;
+
+//import javax.persistence.*;
 import javax.validation.constraints.NotBlank;
 @Entity
 @Table(name="categories")
